@@ -5,7 +5,6 @@ An interactive generative art piece built with [p5.js](https://p5js.org).
 trails that build up into flowing, organic patterns. Every reload
 produces a different result.
 
-![Screenshot](screenshot.png)
 
 ## Live demo
 
